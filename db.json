@@ -1,0 +1,26 @@
+{
+    "created": "2018-01-10T09:01:06Z",
+    "order": "001",
+    "list":[{
+            "wave": "WAV-1715-00019",
+            "location": "001-C-L2-05",
+            "quanlity": "5",
+            "sku": "11.12.16",
+            "status": "new"
+        }, 
+        {
+            "wave": "WAV-1720-00025",
+            "location": "001-C-L2-04",
+            "quanlity": "1",
+            "sku": "11.12.16",
+            "status": "new"
+        }, 
+        {
+            "wave": "WAV-1720-00032",
+            "location": "001-C-L2-02",
+            "quanlity": "20",
+            "sku": "11.12.16",
+            "status": "new"
+        }
+    ]
+}
